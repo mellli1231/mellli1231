@@ -6,7 +6,7 @@
   <li>:brain: I have learnt Python, C, C++, Java, HTML, CSS, JavaScript</li>
   <li>:thought_balloon: In my free time, I love to work on Blender, grind Leetcode, and bake for the people around me</li>
   <li>:smiley_cat: I love going to local cafes and discovering new places to have fun at!</li> 
-  <li>:wave: I am reachable through my <a href =  "melodyli6838@gmail.com">email</li>
+  <li>:wave: I am reachable through my email at melodyli6838@gmail.com</li>
 </ul>
 
 
