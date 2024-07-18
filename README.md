@@ -4,7 +4,7 @@
 <ul>
   <li>:woman_technologist: I am currently a third year CS student</li>
   <li>:brain: I have learnt Python, C, C++, Java, HTML, CSS, JavaScript</li>
-  <li>:thought_balloon: In my free time, I love to work on Blender, grind Leetcode, and bake for the people around me</li>
+  <li>:thought_balloon: In my free time, I love to work on Blender, grind Leetcode, and clean anywhere around my house</li>
   <li>:smiley_cat: I love going to local cafes and discovering new places to have fun at!</li> 
   <li>:wave: I am reachable through my email at melodyli6838@gmail.com</li>
 </ul>
