@@ -3,8 +3,8 @@
 <p>I am open to any collaborations and would love the opportunity to work on a new project, please feel free to contact me and chat!</p>
 <ul>
   <li>:woman_technologist: I am currently a third year CS student</li>
-  <li>:brain: I have learnt Python, C, C++, Java, HTML, CSS, JavaScript</li>
-  <li>:thought_balloon: In my free time, I love to work on Blender, grind Leetcode, and clean anywhere around my house</li>
+  <li>:brain: I have experience with Python, C, C++, Java, HTML, CSS, JavaScript, Kotlin, SQL</li>
+  <li>:thought_balloon: In my free time, I love to work on Blender, grind Leetcode, and clean</li>
   <li>:smiley_cat: I love going to local cafes and discovering new places to have fun at!</li> 
   <li>:wave: I am reachable through my email at melodyli6838@gmail.com</li>
 </ul>
